@@ -1,0 +1,10 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class CUTSCENE : MonoBehaviour
+{
+	public void changeScene(int scene)
+	{
+		SceneManager.LoadScene(scene);
+	}
+}

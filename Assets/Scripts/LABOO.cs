@@ -1,0 +1,13 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class LABOO : MonoBehaviour
+{
+	private void OnTriggerEnter(Collider myCollider)
+	{
+		if (myCollider.tag == "Player")
+		{
+			SceneManager.LoadScene("LAAABO");
+		}
+	}
+}
