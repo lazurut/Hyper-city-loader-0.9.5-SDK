@@ -1,8 +1,8 @@
 # *HYPER CITY LOADER 0.9.5*
 ____________________________________
-## Создание уровней для "Hyper city parkour" от Lazurut (Octobus Game)
+## Создание уровней для "Hyper city parkour" версии 0.9.5 от Lazurut (Octobus Game)
 ____________________________________
-## Level creation for "Hyper city parkour" by Lazurut (Octobus Game)
+## Level creation for "Hyper city parkour" version 0.9.5 by Lazurut (Octobus Game)
 ____________________________________
 original game -- https://octobus-game.itch.io/hyper-city-parkour
 
