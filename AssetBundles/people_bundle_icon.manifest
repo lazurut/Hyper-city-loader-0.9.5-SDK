@@ -1,21 +1,20 @@
 ManifestFileVersion: 0
-CRC: 598962483
+CRC: 828938307
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f8032143d4963cd4df81d8e04ab1786c
+    Hash: effc9c859698b622a00177130d6ad53a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f8032143d4963cd4df81d8e04ab1786c
+    Hash: effc9c859698b622a00177130d6ad53a
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/Scenes/Wese/\u0421\u043D\u0438\u043C\u043E\u043A \u044D\u043A\u0440\u0430\u043D\u0430
-  2026-03-03 215259.png"
+- Assets/Scenes/Wese/icon.png
 Dependencies: []

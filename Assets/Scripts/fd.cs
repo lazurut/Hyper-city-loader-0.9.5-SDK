@@ -7,7 +7,7 @@ public class fd : MonoBehaviour
 	{
 		if (myCollider.tag == "Player")
 		{
-			SceneManager.LoadScene("level 2");
+			SceneManager.LoadScene("Wese");
 		}
 	}
 }
