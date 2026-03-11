@@ -4,6 +4,9 @@ ____________________________________
 ____________________________________
 ## Level creation for "Hyper city parkour" version 0.9.5 by Lazurut (Octobus Game)
 ____________________________________
+
+Туториал -- https://www.youtube.com/watch?v=szxZ3qcfRa4&t=247s
+
 original game -- https://octobus-game.itch.io/hyper-city-parkour
 
 Discord server --  https://discord.gg/yqvudQ4yMt
